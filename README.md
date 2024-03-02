@@ -5,6 +5,11 @@
 I have to share my experiences as an athlete, because of the passion I have for running, and interacting with other people who also have this feeling is very rewarding.
 https://www.youtube.com/@abnerssantana
 
+### Magic Training
+
+Free training plans for running, triathlon and strengthening, inspired by renowned books and experienced coaches.
+https://magic.vivendoacorrida.com
+
 <!---
 abnerssantana/abnerssantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
