@@ -8,9 +8,9 @@ I am also developing 'Magic Training', a dynamic and fast web project created wi
 
 🎥 [YouTube Channel](https://www.youtube.com/@abnerssantana)
 
-📈 [Strava Profile](https://www.strava.com/athletes/abnerss)
-
 I love sharing my experiences as an athlete, as running is a great passion of mine. Interacting with others who share this passion is incredibly rewarding. I also create content related to running and training tips on my YouTube channel.
+
+📈 [Strava Profile](https://www.strava.com/athletes/abnerss)
 
 🏃🏻‍♂️ **Personal Bests:**
 
