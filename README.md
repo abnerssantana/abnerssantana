@@ -2,7 +2,7 @@
 
 I work with IT infrastructure and security, and I lead an athletic life, running and competing in long-distance events, from 5km to marathons. I'm passionate about ethical hacking, cyber security, hardware, MacOS, Hackintosh, Linux, and web development.
 
-🎩 [Magic](vivendoacorrida.com)
+🎩 [Magic Training](https://magictraining.run/)
 
 I am also developing 'Magic Training', a dynamic and fast web project created with Next.js and styled using Tailwind CSS. 'Magic Training' offers personalized training plans for running and strength training. It includes a marathon ranking system, marathon statistics, and a marathon calendar. The project supports both light and dark themes, adapting to the user's preference or system settings. It is hosted on Vercel and uses JSON files as its database.
 
