@@ -20,3 +20,5 @@ I love sharing my experiences as an athlete, as running is a great passion of mi
 - 42km (Marathon): 2:30:44
 
 Feel free to connect with me!
+
+Some projects that I collaborate on, as they are tools in my daily life as an infrastructure administrator.
