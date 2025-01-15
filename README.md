@@ -16,7 +16,7 @@ I love sharing my experiences as an athlete, as running is a great passion of mi
 
 - 5km: 14:27
 - 10km: 30:49
-- 21km (Half Marathon): 1:11:23
+- 21km (Half Marathon): 1:11:22
 - 42km (Marathon): 2:30:44
 
 Feel free to connect with me!
